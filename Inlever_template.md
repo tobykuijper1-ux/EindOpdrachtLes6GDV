@@ -17,7 +17,7 @@ Onderweg moet je de lava vermijden. Raak je de lava aan, dan word je teruggezet 
 
 ## Screenshot / GIF van je level
 
-![Mini-level preview](fullgame.gif)
+![Mini-level preview](fullvideo.gif)
 
 ---
 
