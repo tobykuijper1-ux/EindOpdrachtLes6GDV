@@ -30,13 +30,13 @@ In mijn level beweegt de sleutel (hij draait rond) en is er een bewegend platfor
 ```csharp
 using UnityEngine;
 
-public class KeyRotate : MonoBehaviour
+public class Rotatie : MonoBehaviour
 {
-    public float rotationSpeed = 90f; // graden per seconde
+    public float rotationSpeed = 100f; // graden per seconde
 
     void Update()
     {
-        transform.Rotate(Vector3.up * rotationSpeed * Time.deltaTime);
+        transform.Rotate(0, rotationSpeed * Time.deltaTime, 0);
     }
 }
 ```
