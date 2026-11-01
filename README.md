@@ -76,6 +76,8 @@ Het platform gebruikt `Mathf.Sin`, waardoor het soepel op en neer beweegt vanaf 
 | Killblock (lava) | Trigger | Je wordt teruggezet naar de spawn-locatie en de dood-teller gaat omhoog. |
 | Sleutel | Trigger | Je pakt de sleutel op. Hij wordt opgeslagen en het object verdwijnt. |
 | Deur | Collider | De deur checkt of je de sleutel hebt. Zo ja, dan gaat de deur open. |
+
+
 **Killblock:**
 
 ```csharp
