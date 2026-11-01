@@ -11,7 +11,7 @@
 
 Ik heb een mini-level gemaakt waarin je een bal bestuurt. Het doel is om de sleutel te pakken en daarmee door de deur te gaan. Als je dat doet, win je het level.
 
-Onderweg moet je de lava vermijden. Raak je de lava aan, dan word je teruggezet naar het beginpunt. Na 5 keer dood gaan is het game over. Ook is er een bewegend platform waar je overheen moet.
+Onderweg moet je de lava vermijden. Raak je de lava aan, dan word je teruggezet naar de spawn. Na 5 keer dood gaan is het game over. Ook is er een bewegend platform waar je overheen moet.
 
 ---
 
